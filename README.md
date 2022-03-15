@@ -122,3 +122,8 @@ void *max()
   }
 }
 ```
+#Funções Makefile
+
+Make = Cria o aplicativo binario do codigo.
+Make run = Executa o aplicativo.
+Make clean = Apaga o aplicativo binario.
